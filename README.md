@@ -1,2 +1,3 @@
-# team-hacker1
-job seekers often struggle to know whether their resume matches a job descripition, why their application get rejected by applicant tracking system (ATS), and how to quickly build a professional, ATS-friendly resume tailored to a specific role. manually comparing resumes with job description and reformating them is show and error prone.
+# team-hacker
+web app that checks whether news is real or fake. Users can submit text, an image or a video, and the system detects the language, classifies the content, explains why, and points to the verified truth. It supports Hindi, Telugu and English, among other languages.
+Problem: Fake news spreads quickly on WhatsApp, social media and viral posts, often as text, edited images or videos in regional languages. Most people can't easily check a claim, and many fact-checking tools are English-only or text-only.
